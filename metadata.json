@@ -1,8 +1,8 @@
 {
   "store_name": "Samuels Bookstore",
-  "page_count": 1,
+  "page_count": 3,
   "valid_dates": "September 1 - 30",
-  "exported_at": "2026-04-27T03:45:51.299909+00:00",
-  "theme_id": "apex-bin",
+  "exported_at": "2026-04-27T04:26:15.904771+00:00",
+  "theme_id": "luxury",
   "generator": "DaaSFac BookSales v3"
 }
