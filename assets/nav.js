@@ -1,7 +1,7 @@
 /* BookSales — Navigation */
 (function(){
   'use strict';
-  var pages = ["page_01.html"];
+  var pages = ["page_01.html", "page_02.html", "page_03.html"];
   var cur = location.pathname.split('/').pop() || 'index.html';
   document.querySelectorAll('.nav-link[data-page]').forEach(function(a){
     if (a.dataset.page === cur) a.classList.add('active');
